@@ -1,0 +1,5 @@
+pymupdf
+pdfplumber
+pandas
+matplotlib
+openpyxl
